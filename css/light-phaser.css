@@ -1408,6 +1408,14 @@ div, section, ::after, ::before{
     z-index: 7;
 }
 
+.video {
+    display: flex;
+    justify-content: center;
+    width: 100%; 
+    margin-top: 500px;
+    padding-bottom: 50px;
+}
+
 
 
 
